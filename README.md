@@ -1,7 +1,11 @@
-# audits
-Public audit portfolio 
+# Audits
+I am currently an independant security researcher, mainly doing smart contract audits, both public and private. I occassionally perform security audits for [Sub7 security](https://www.sub7.xyz) as an independant contractor.
 
-## Public Audit Contests
+Feel free to contact me on twitter [@yixxas](https://twitter.com/yixxas) or on discord hhhhh#8269 if you would like to request for a private audit.
+
+## Sherlock/Code4rena Audit Contests
+
+These are some of my best performance in public bounty contests with hundreds of participants each time.
 
 | Contest                                                                                          | Date          | Platform  | Rank | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ---- | ------------------------------------------------------ |
