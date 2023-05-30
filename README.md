@@ -5,7 +5,7 @@ Feel free to reach out to me on twitter [@yixxas](https://twitter.com/yixxas) or
 
 ## Sherlock/Code4rena Audit Contests
 
-These are some of my best performance in public bounty contests with hundreds of participants each contest.
+These are some of my best performance in public bounty contests.
 
 | Contest                                                                                          | Date          | Platform  | Rank | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ---- | ------------------------------------------------------ |
