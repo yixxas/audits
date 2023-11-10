@@ -1,7 +1,7 @@
 # Audits
 I have a background in Applied Mathematics and am currently an independant security researcher, mainly doing smart contract audits, both public and private. I occassionally perform security audits for [Sub7 security](https://www.sub7.xyz) as an independant contractor.
 
-Feel free to reach out to me on twitter [@yixxas](https://twitter.com/yixxas) or on discord @yixxas if you would like to discuss/request for a private audit.
+Feel free to reach out to me on twitter [@yixxas](https://twitter.com/yixxas) or on discord yixxas if you would like to discuss/request for a private audit.
 
 ## Sherlock/Code4rena Audit Contests
 
